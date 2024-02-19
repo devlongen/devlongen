@@ -7,7 +7,7 @@
 
 ![Status de contribuição](https://github-readme-stats.vercel.app/api?username=devlongen&show&icons=true&theme=midnight-purple)
 
-# Técnologias que eu utilizo no meu dia a dia.
+# Tecnologias que eu utilizo no meu dia a dia.
 <div style="display: inline_block"><br/>
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)"/>
   <img aling="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
