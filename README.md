@@ -1,4 +1,4 @@
-# Olá! Me chamo Iago Longen👋🏻
+# Olá! Me chamo Iago Longen
 
 ### Caso tenha interesse em entrar em contato comigo pode procurar por esses canais de comunicação!
 
