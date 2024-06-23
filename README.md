@@ -18,6 +18,6 @@
 ## Projetos mais inspiradores que eu contribui!
 
 - [Startup Connect](https://github.com/devlongen/startup_connect)
+- [Bot de extração de dados]((https://github.com/devlongen/bot_report))
 - [Código morse](https://github.com/devlongen/morse_code_system_SA)
-- [MarketPlace GO](https://github.com/devlongen/marketplace_project)
 - [Livraria Virtual](https://github.com/hrerik/sa-senai-tdesi-2022-2-sem2)
