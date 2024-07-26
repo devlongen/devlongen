@@ -9,6 +9,10 @@ Sou um jovem de 19 anos, nascido em Joinville|SC, conheço a tecnologia/internet
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagolongen/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547988071571)
   
+## Minha organização
+
+-[Lonic](https://github.com/Lonic-IE)
+
 ## Projetos mais inspiradores que eu contribui!
 
 - [Startup Connect](https://github.com/devlongen/startup_connect)
