@@ -1,19 +1,11 @@
 # Olá! tudo certo?
 
+### Falando um pouco sobre mim: Sou um jovem de 19 anos, nascido em Joinville|SC, conheço a tecnologia/internet desde meus 7 anos de idade, onde literalmente envelheci com a evolução da internet, em 2022 comecei o meu curso como técnico em desenvolvimento de sistema consegui concluir essa etapa com formação na área e agora busco realizar a minha faculdade de engenharia de software além mais me pós-graduar em ciência de dados!
+
 ### Caso tenha interesse em entrar em contato comigo pode procurar por esses canais de comunicação!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagolongen/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547988071571)
-
-
-# Tecnologias que eu utilizo no meu dia a dia.
-<div style="display: inline_block"><br/>
-  <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)"/>
-  <img aling="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img aling="center" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
   
 ## Projetos mais inspiradores que eu contribui!
 
