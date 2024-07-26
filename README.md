@@ -2,7 +2,7 @@
 
 ### Falando um pouco sobre mim: 
 
-Sou um jovem de 19 anos, nascido em Joinville|SC, conheço a tecnologia/internet desde meus 7 anos de idade, onde literalmente envelheci com a evolução da internet, em 2022 comecei o meu curso como técnico em desenvolvimento de sistema consegui concluir essa etapa com formação na área e agora busco realizar a minha faculdade de engenharia de software além disso, me pós-graduar em ciência de dados!
+Sou um jovem de 19 anos, nascido em Joinville (SC), conheço a tecnologia/internet desde meus 7 anos de idade, onde literalmente envelheci com a evolução da internet, em 2022 comecei o meu curso como técnico em desenvolvimento de sistema consegui concluir essa etapa com formação na área e agora busco realizar a minha faculdade de engenharia de software além disso, me pós-graduar em ciência de dados!
 
 ### Caso tenha interesse em entrar em contato comigo pode procurar por esses canais de comunicação!
 
@@ -11,7 +11,7 @@ Sou um jovem de 19 anos, nascido em Joinville|SC, conheço a tecnologia/internet
   
 ## Minha organização
 
--[Lonic](https://github.com/Lonic-IE)
+- [Lonic](https://github.com/Lonic-IE)
 
 ## Projetos mais inspiradores que eu contribui!
 
