@@ -39,7 +39,7 @@
 
 <br clear="both">
 
-<h4 align="center">Caso tenha interesse em entrar em contato comigo pode procurar por esses canais de comunicação!</h4>
+<h3 align="center">Caso tenha interesse em entrar em contato comigo pode procurar por esses canais de comunicação!</h3>
 
 ###
 
