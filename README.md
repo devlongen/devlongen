@@ -56,10 +56,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="125" src="https://media.licdn.com/dms/image/D4D03AQFb5ifzFaKlew/profile-displayphoto-shrink_800_800/0/1705109425476?e=1727913600&v=beta&t=_Wqcm2WzTbF0bxOurXq1qT9l7gMlw1EjtmEH28MD_9Q"  />
-</div>
-
 ###
 
 <br clear="both">
