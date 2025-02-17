@@ -1,4 +1,4 @@
-<h2 align="center">Olá, sou conhecido como Longen!</h2>
+<h2 align="center">Olá, tudo bem?</h2>
 
 ###
 
@@ -33,16 +33,13 @@
 
 <br clear="both">
 
-<h3 align="center">Caso tenha interesse em entrar em contato comigo pode procurar por esses canais de comunicação!</h3>
+<h3 align="center">Caso precisar de alguma ajuda ou algo que possa contribuir, entre em contato através do:</h3>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iagolongen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=5547988071571&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
 
