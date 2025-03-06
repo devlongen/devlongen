@@ -1,4 +1,4 @@
-<h2 align="center">Olá, tudo bem?</h2>
+<h2 align="left">Olá, tudo bem?</h2>
 
 ###
 
