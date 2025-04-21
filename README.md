@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Seja bem vindo ao meu perfil!<br><br>Sou um jovem de 20 anos, nascido em Joinville (SC), conheço a tecnologia/internet desde meus 7 anos de idade, onde literalmente envelheci com a evolução da internet, em 2022 comecei o meu curso como técnico em desenvolvimento de sistema consegui concluir essa etapa com formação na área e agora busco realizar a minha faculdade de engenharia de software além disso, me pós-graduar em ciência de dados!</h3>
+<h3 align="left">Seja bem vindo ao meu perfil!<br><br>Sou um jovem de 20 anos, nascido em Joinville (SC), conheço a tecnologia/internet desde meus 7 anos de idade, onde literalmente envelheci com a evolução da internet, em 2022 comecei o meu curso como técnico em desenvolvimento de sistema consegui concluir essa etapa com formação na área e agora busco realizar a minha faculdade de engenharia de software.</h3>
 
 ###
 
