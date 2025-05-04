@@ -1,21 +1,28 @@
-<h2>Hello, welcome!<h2>
+# 👋 About Me
 
-<h3>I am a 20 year old young man, born in Joinville (SC), I have known technology/internet since I was 7 years old, where I literally grew old with the evolution of the internet, in 2022 I started my course as a system development technician, I managed to complete this stage with training in the area and now I am looking to complete my degree in software engineering.</h3>
+### 👨🏼‍💻 History  
+I'm a 20-year-old developer from Joinville (SC), passionate about technology since I was 7. I’ve grown up alongside the evolution of the internet. In 2022, I started a technical course in Systems Development and completed it with training in the area. I'm now pursuing a degree in Software Engineering.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlongen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="400" alt="languages graph"  />
-</div>
+---
 
+### 🧰 Technologies I Use the Most
 
+### ⚙️ Backend | Software  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>  
+#### Python / Django (Ajex | Software)
 
-<br clear="both">
+### 🌐 Web Development  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>  
+#### JavaScript / HTML / CSS / PHP
 
-<h3 align="center">If you need any help or anything that can contribute, please contact us at:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/iagolongen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 🛰️ Other Projects  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>  
+#### C++ (Project Morse)
 
+---
 
+### 📚 Learning & Future Interests
 
+💡 Interested in software/hardware architecture for advanced performance.
+
+---
