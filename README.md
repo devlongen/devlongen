@@ -17,7 +17,8 @@ I'm a 20-year-old developer from Joinville (SC), passionate about technology sin
 
 ### 🛰️ Other Projects  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>  
-#### C++ (Project Morse)
+
+#### ( Project Morse )
 
 ---
 
