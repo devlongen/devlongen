@@ -1,7 +1,7 @@
 # 👋 About Me
 
 ### 👨🏼‍💻 History  
-I'm a 20-year-old developer from Joinville (SC), passionate about technology since I was 7. I’ve grown up alongside the evolution of the internet. In 2022, I started a technical course in Systems Development and completed it with training in the area. I'm now pursuing a degree in Software Engineering.
+I'm a 20-year-old developer from Joinville (SC - BRAZIL), passionate about technology since I was 7. I’ve grown up alongside the evolution of the internet. In 2022, I started a technical course in Systems Development and completed it with training in the area. I'm now pursuing a degree in Software Engineering.
 
 ---
 
