@@ -1,29 +1,62 @@
-# 👋 About Me
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" alt="line" />
+</p>
 
-### 👨🏼‍💻 History  
-I'm a 20-year-old developer from Joinville (SC - BRAZIL), passionate about technology since I was 7. I’ve grown up alongside the evolution of the internet. In 2022, I started a technical course in Systems Development and completed it with training in the area. I'm now pursuing a degree in Software Engineering.
+# Hello, I'm Iago
 
----
+They call me **devlongen** (comes from my last name).
 
-### 🧰 Technologies I Use the Most
+This profile is my little corner to share personal projects, ideas, and learnings in the world of technology.  
+But the focus here is **not about productivity or self-help for devs** – it's about **curiosity, creativity, and the will to learn**.
 
-### ⚙️ Backend | Software  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>  
-#### Python / Django (Ajex | Software)
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0378.gif" alt="line" />
+</p>
 
-### 🌐 Web Development  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>  
-#### JavaScript / HTML / CSS / PHP
+## Who am I?
 
-### 🛰️ Other Projects  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>  
+I'm from **Joinville/SC, Brazil**, I'm **20 years old**, and I've been immersed in the internet since I was **7**.  
+I've always been deeply into the gaming world – I’ve played a bit of everything: **GTA RP, Rocket League, LoL**...
 
-#### ( Project Morse )
+Yes, I’m the kind of **geek** who loves both building PCs and reading about black holes.
 
----
+Lately, I’ve been very interested in the lives of **renowned physicists** and their contributions.  
+I study on my own, hoping to one day **leave a positive mark on the world** as well.
 
-### 📚 Learning & Future Interests
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/611/animated-satellite-image-0014.gif" alt="satellite" />
+</p>
 
-💡 Interested in software/hardware architecture for advanced performance.
+## Tech Area
 
----
+I'm currently at the beginning of my dev journey, still looking for opportunities as an **intern**.
+
+I’ve built a solid theoretical foundation and am now getting hands-on with personal projects:
+
+### Ongoing Projects:
+
+- **Ajex**: a tool for cleaning and manipulating structured data through spreadsheets.  
+  > The idea is to make life easier for those who work with data, turning spreadsheets into something functional with just a few clicks.
+
+- **Realistic Physics Car Simulator**:  
+  An ambitious project where I aim to apply real-world physics concepts to simulate car performance (still in early development).
+
+### Currently Learning:
+
+- **Languages**:  
+  `C++` • `Python`
+
+- **Focus**:
+  - Building real-world tools
+  - Clean code structure and logic
+  - Physics simulations and data manipulation
+
+You can follow my projects right here in the repositories.
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif" alt="line end" />
+</p>
+
+## Welcome to my profile
+
+Feel free to explore my projects, give suggestions, or just chat about tech, science, or geek life.
