@@ -4,7 +4,7 @@
 
 # Hello, I'm Iago
 
-They call me **devlongen** (comes from my last name).
+They call me **longen** (comes from my last name).
 
 This profile is my little corner to share personal projects, ideas, and learnings in the world of technology.  
 But the focus here is **not about productivity or self-help for devs** – it's about **curiosity, creativity, and the will to learn**.
