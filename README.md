@@ -5,7 +5,6 @@
 # Olá eu sou Iago
 
 Este perfil é meu cantinho para compartilhar projetos pessoais, ideias e aprendizados no mundo da tecnologia.
-Mas o foco aqui não é produtividade ou autoajuda para devs – é sobre **curiosidade, criatividade e vontade de aprender.**
 
 ## Quem sou eu?
 
